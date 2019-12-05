@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello everyone");
+	printf("sumedh means sumi,saglyanchi jiravnar ");
+	printf("hello everyone\n");
 }
